@@ -1,0 +1,61 @@
+pesuacademy.models package
+==========================
+
+Submodules
+----------
+
+pesuacademy.models.announcement module
+--------------------------------------
+
+.. automodule:: pesuacademy.models.announcement
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+pesuacademy.models.course module
+--------------------------------
+
+.. automodule:: pesuacademy.models.course
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+pesuacademy.models.materials module
+-----------------------------------
+
+.. automodule:: pesuacademy.models.materials
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+pesuacademy.models.profile module
+---------------------------------
+
+.. automodule:: pesuacademy.models.profile
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+pesuacademy.models.results module
+---------------------------------
+
+.. automodule:: pesuacademy.models.results
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+pesuacademy.models.seating\_information module
+----------------------------------------------
+
+.. automodule:: pesuacademy.models.seating_information
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+Module contents
+---------------
+
+.. automodule:: pesuacademy.models
+   :members:
+   :show-inheritance:
+   :undoc-members:

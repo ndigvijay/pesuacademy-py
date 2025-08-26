@@ -1,0 +1,48 @@
+pesuacademy package
+===================
+
+Subpackages
+-----------
+
+.. toctree::
+   :maxdepth: 4
+
+   pesuacademy.exceptions
+   pesuacademy.models
+   pesuacademy.pages
+   pesuacademy.util
+
+Submodules
+----------
+
+pesuacademy.client module
+-------------------------
+
+.. automodule:: pesuacademy.client
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+pesuacademy.constants module
+----------------------------
+
+.. automodule:: pesuacademy.constants
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+pesuacademy.pesuacademy module
+------------------------------
+
+.. automodule:: pesuacademy.pesuacademy
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+Module contents
+---------------
+
+.. automodule:: pesuacademy
+   :members:
+   :show-inheritance:
+   :undoc-members:

@@ -1,0 +1,29 @@
+pesuacademy.exceptions package
+==============================
+
+Submodules
+----------
+
+pesuacademy.exceptions.authentication module
+--------------------------------------------
+
+.. automodule:: pesuacademy.exceptions.authentication
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+pesuacademy.exceptions.csrf module
+----------------------------------
+
+.. automodule:: pesuacademy.exceptions.csrf
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+Module contents
+---------------
+
+.. automodule:: pesuacademy.exceptions
+   :members:
+   :show-inheritance:
+   :undoc-members:

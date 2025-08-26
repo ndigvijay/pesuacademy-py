@@ -1,0 +1,21 @@
+pesuacademy.util package
+========================
+
+Submodules
+----------
+
+pesuacademy.util.utils module
+-----------------------------
+
+.. automodule:: pesuacademy.util.utils
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+Module contents
+---------------
+
+.. automodule:: pesuacademy.util
+   :members:
+   :show-inheritance:
+   :undoc-members:

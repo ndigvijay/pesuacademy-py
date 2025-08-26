@@ -1,0 +1,93 @@
+pesuacademy.pages package
+=========================
+
+Submodules
+----------
+
+pesuacademy.pages.announcements module
+--------------------------------------
+
+.. automodule:: pesuacademy.pages.announcements
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+pesuacademy.pages.attendance module
+-----------------------------------
+
+.. automodule:: pesuacademy.pages.attendance
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+pesuacademy.pages.course\_detail module
+---------------------------------------
+
+.. automodule:: pesuacademy.pages.course_detail
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+pesuacademy.pages.courses module
+--------------------------------
+
+.. automodule:: pesuacademy.pages.courses
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+pesuacademy.pages.esa\_result module
+------------------------------------
+
+.. automodule:: pesuacademy.pages.esa_result
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+pesuacademy.pages.material\_links module
+----------------------------------------
+
+.. automodule:: pesuacademy.pages.material_links
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+pesuacademy.pages.profile module
+--------------------------------
+
+.. automodule:: pesuacademy.pages.profile
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+pesuacademy.pages.seating\_information module
+---------------------------------------------
+
+.. automodule:: pesuacademy.pages.seating_information
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+pesuacademy.pages.semester module
+---------------------------------
+
+.. automodule:: pesuacademy.pages.semester
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+pesuacademy.pages.unit module
+-----------------------------
+
+.. automodule:: pesuacademy.pages.unit
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+Module contents
+---------------
+
+.. automodule:: pesuacademy.pages
+   :members:
+   :show-inheritance:
+   :undoc-members:
